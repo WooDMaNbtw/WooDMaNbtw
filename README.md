@@ -8,11 +8,10 @@
 
 
 ## Stats
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WooDMaNbtw&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WooDMaNbtw&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WooDMaNbtw&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WooDMaNbtw&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WooDMaNbtw&theme=tokyonight)
 
 <!--
 **WooDMaNbtw/WooDMaNbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
