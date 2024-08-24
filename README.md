@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-## Top languages in commits card
-https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WooDMaNbtw&theme=radical
+## Stats
+<hr/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WooDMaNbtw&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WooDMaNbtw&theme=tokyonight)
 
 
 <!--
