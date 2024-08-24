@@ -2,6 +2,8 @@
 
 ## Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WooDMaNbtw&theme=tokyonight)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WooDMaNbtw&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WooDMaNbtw&theme=tokyonight)
