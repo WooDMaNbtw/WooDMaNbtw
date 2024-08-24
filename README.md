@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ## Stats
-<hr/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WooDMaNbtw&theme=tokyonight)
 
