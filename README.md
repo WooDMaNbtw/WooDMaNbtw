@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nikita, Backend Developer
 
-[LinkedIn](linkedin.com/in/nikita-profatilov-4379b6276)
+[LinkedIn](https://linkedin.com/in/nikita-profatilov-4379b6276)
 
 [Telegram](https://t.me/woodmanbtw)
 
